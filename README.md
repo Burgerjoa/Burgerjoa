@@ -1,5 +1,5 @@
-<!-- 헤더 애니메이션 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20Sungwoo!&fontSize=50&fontAlign=50&fontAlignY=35&desc=Frontend%20%26%20AI%20Developer&descAlign=50&descAlignY=55" width="100%">
+<!-- 헤더 애니메이션 이미지 (수정됨) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20Sungwoo!&fontSize=50&fontAlign=50&fontAlignY=35&desc=Frontend%20and%20AI%20Developer&descAlign=50&descAlignY=55" width="100%">
 
 <div align="center">
 
