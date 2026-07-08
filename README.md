@@ -23,12 +23,20 @@
 
 <br>
 
-### 🚀 `ls ./projects`
-| 📦 Project | 📝 Description | 🛠️ Stack |
-| :--- | :--- | :---: |
-| **[dyu_RAG_CHAT](https://github.com/Burgerjoa/dyu_RAG_CHAT)** | RAG(Retrieval-Augmented Generation) 기술을 활용한 챗봇 (졸업작품) | `Python`, `LLM` |
-| **[habit-quest](https://github.com/Burgerjoa/habit-quest)** | 퀘스트 기반 일상 습관 관리 웹 애플리케이션 | `TypeScript` |
-| **[9oormthon 시즌톤](https://github.com/Burgerjoa/9oormthon_univ_Fe)** | 구름톤 유니브 해커톤 출품작 프론트엔드 | `TypeScript` |
+### `ls ./projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| [llm-output-guard](https://github.com/Burgerjoa/llm-output-guard) | LLM 응답의 깨진 Markdown code fence를 감지하고 수정하는 개발자 도구. Core, CLI, MCP server, Chrome Extension으로 구성 | TypeScript, MCP, Chrome Extension |
+| [habit-quest](https://github.com/Burgerjoa/habit-quest) | 퀘스트 기반 일상 습관 관리 웹 애플리케이션 | TypeScript, React |
+| [dyu_RAG_CHAT](https://github.com/Burgerjoa/dyu_RAG_CHAT) | 대학 정보 문서를 기반으로 답변하는 RAG 챗봇 졸업작품 | Python, LLM, RAG |
+| [personal-portal](https://github.com/Burgerjoa/personal-portal) | 프로젝트와 학습 기록을 정리한 개인 포트폴리오 허브 | TypeScript |
+
+### `open-source contributions`
+
+| Project | Contribution |
+|---|---|
+| [ZyphrZero/Termy](https://github.com/ZyphrZero/Termy/commit/b1d44505fd8a7ba7433ca3e92fe9fad30e5af10e) | Fixed a CJK IME spacing layout issue in Windows ConPTY |
 
 <br>
 
