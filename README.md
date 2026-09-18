@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sungwoo+Jung;Frontend+Developer" alt="Sungwoo Jung — Frontend Developer" />
 </div>
 
-## 안녕하세요, 정성우입니다
-
-React와 Next.js로 사용자 화면과 내부 업무 도구를 만듭니다. 기존 코드에서 문제를 찾아 고치고, 데이터가 화면에 어떻게 이어지는지 이해하는 일을 좋아합니다.
-
-### 주요 프로젝트
+## 주요 프로젝트
 
 | 프로젝트 | 만든 것 | 기술 |
 | --- | --- | --- |
